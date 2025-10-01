@@ -15,3 +15,5 @@ Ce projet, développé dans un cadre académique et utilisant des classes déjà
 
 ## 🖼️ Une base pour un jeu plus complexe
 Le projet peut servir de base pour un jeu plus complexe.
+
+## 👪 Collaborateurs du projet
