@@ -1,1 +1,1 @@
-# jeu-labyrinthe
+# jeu-de-plateforme
