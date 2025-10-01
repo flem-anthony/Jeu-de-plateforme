@@ -3,7 +3,7 @@ Ce projet, développé dans un cadre académique et utilisant des classes déjà
 
 ## ✨ Fonctionnalités principales
 - Déplacement du personnage (gauche/droite)
-- Possibilité de changer de thème
+- Possibilité de récupérer des clés permettant d'ouvrir des portes
 - Gameplay simple et accessible
 
 ## 🛠️ Langages utilisés
