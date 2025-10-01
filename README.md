@@ -3,6 +3,7 @@ Ce projet, développé dans un cadre académique et utilisant des classes déjà
 
 ## ✨ Fonctionnalités principales
 - Déplacement du personnage (gauche/droite)
+- Possibilité de changer de thème
 - Gameplay simple et accessible
 
 ## 🛠️ Langages utilisés
